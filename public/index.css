@@ -1,0 +1,66 @@
+html,body{
+        height: 100%;
+        background-color: black;
+        background-image: url("fondo5.jpeg");
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat ; 
+    
+}
+
+.title {
+        position: relative;
+        color: #d7d7d7;
+        margin-top: 100px;
+        text-align: center;
+        left: 10px;
+        font-family:sans-serif;
+        text-shadow: 2px 2px black;
+        top: ;
+
+}
+
+
+.header-start{
+       position: relative;
+        height: 100%;
+        top:60px;
+
+}
+
+.header-nysl{
+        position: relative;
+        height: 100%;
+        top: 60px;
+
+}
+
+#logo{
+        top:60px;
+}
+
+.parrafo {
+
+         color: white;
+         text-align: center;
+        
+        
+
+}
+
+td{
+        
+        color: white; 
+        margin: 25px;
+        
+}
+
+.direccion{
+font-size: 25px;
+}
+
+p{
+
+ color:white;
+
+}
